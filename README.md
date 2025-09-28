@@ -4,10 +4,10 @@ A basic geometry calculator made in python made for offline use. Please ignore t
 
 Linux/macOS instructions:
 
-1. Download GCalc from the releases tab.
+1. Download GCalc_linux_macos from the releases tab.
 2. Open a terminal window.
 3. Navigate to the folder where your file resides.
-4. Type "./GCalc" (without the commas) in the terminal.
+4. Type "./GCalc_linux_macos" (without the commas) in the terminal.
 5. Congrats! You just opened a calculator!
 
 Windows instructions:
